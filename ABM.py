@@ -1,5 +1,7 @@
 import json
 
+print("Este es mi programa")
+
 base_datos = "base_datos.json"
 
 def verif_contra(usuario, int):
